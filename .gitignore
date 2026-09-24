@@ -1,0 +1,17 @@
+# Keil编译产物
+MPU6050/MPU6050模块复刻/Objects/
+MPU6050/MPU6050模块复刻/Listings/
+MPU6050/MPU6050模块复刻/DebugConfig/
+*.uvguix.*
+*.bak
+*.axf
+*.o
+*.crf
+*.d
+*.lst
+*.htm
+*.map
+*.lnp
+*.sct
+*.dep
+*.iex
